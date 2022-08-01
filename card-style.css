@@ -68,6 +68,7 @@ button:hover {
 
 h2 {
     font-family: 'Big Shoulders Display', cursive;
+    font-size: 1.8rem;
     font-weight: 700;
     color:hsl(0, 0%, 95%);
 }
